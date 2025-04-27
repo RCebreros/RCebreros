@@ -1,10 +1,7 @@
-👋
-A letter to the reader,
+👋 Hi, I’m Ricardo - a self-made developer looking to apply everything I learn.
+🧠 Lifelong learner - always looking for something to read and something to learn.
+🤖 Workflow wizard - I automate what too many tolerate.
+🕸️ Favorite frameworks - PyTorch, Tensorflow/Keras, Gensim, T5, NERs. 
+🌱 Looking to grow & open to recommendations.
 
-My name is Ricardo,
-I read every day, learn everyday and work everyday. I'm currently learning C. The language that started it all for me was Python. With it, 
-I felt like I earned a superpower. I believe that hard work in an important part of one's integrity. 
-
-
-
-- 📫 How to reach me : cebrerosricardo@gmail.com / rice6802@stu.evc.edu
+📫 Reach out - cebrerosricardo@gmail.com
